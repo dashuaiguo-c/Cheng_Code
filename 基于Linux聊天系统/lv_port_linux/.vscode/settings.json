@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "lv_demos.h": "c",
+        "lv_sdl_window.h": "c",
+        "ui.h": "c",
+        "ui_events.h": "c",
+        "ui_helpers.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "tcp_client.h": "c",
+        "unistd.h": "c",
+        "pthread.h": "c",
+        "list": "c",
+        "cstring": "c",
+        "numbers": "c",
+        "cstdlib": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
