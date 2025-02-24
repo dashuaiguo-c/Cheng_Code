@@ -1,0 +1,8 @@
+在wsl  创建/cheng目录将images拷贝过去
+
+peizhi.tar.gz 用 tar命令解压，配置好后即可运行
+
+
+直接在电脑上运行：
+服务器：终端进入TCP_Server目录   ./main 8888
+客户端：直接在main.c所在路径       ./build/bin/mian 你的ip 8888
